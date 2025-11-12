@@ -1,6 +1,6 @@
 <!-- 🖼️ GitHub Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="GitHub Banner" width="100%">
+  <img src="C:\Users\HP\Desktop\Projects\Images\LinkedIn Profile Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadiq</h1>

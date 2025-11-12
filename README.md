@@ -1,25 +1,25 @@
-<!-- Banner -->
+<!-- 🖼️ GitHub Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="banner" width="100%">
+  <img src="https://your-banner-image-link-here" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, I'm Sadik Rangrej</h1>
-<h3 align="center">Frontend Developer ⚡ | React Specialist 🚀 | AI-Enhanced Builder 🤖</h3>
+<h1 align="center">👋 Hey, I’m Sadiq</h1>
+<h3 align="center">Frontend Developer ⚛ | React Specialist 🚀 | AI-Enhanced Builder 🤖</h3>
 
 ---
 
-### 🔥 About Me  
-- 💡 Turning ideas into smooth, pixel-perfect, lightning-fast UIs  
-- 💻 8+ months experience building scalable frontend apps  
-- 🎓 BCA (2024–27) | Certified Full Stack Developer – PW Skills  
-- 🏆 Outstanding Tech Talent Award (2025)  
-- 🌍 Open for Frontend & React Developer opportunities worldwide  
-- 📫 Reach me: **yourmail@gmail.com**  
-- 🌐 Portfolio: [ilmcore.netlify.app](https://ilmcore.netlify.app)
+💡 Turning ideas into smooth, pixel-perfect, lightning-fast UIs  
+📌 8+ months building scalable frontend apps @ Ilmcore Tech  
+🛠 Expert in React, Zustand, Prisma, PostgreSQL, Tailwind, AI APIs  
+🎓 BCA (2024–27) | Certified Full Stack Developer – PW Skills  
+🏆 Outstanding Tech Talent Award (2025) | Excellency Award (2024)  
+🌍 Open for Frontend & React Developer opportunities worldwide  
+📬 Connect: [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/sadiqcodex)
 
 ---
 
-### 🚀 Tech Stack  
+## 🚀 Tech Stack  
+
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -31,20 +31,40 @@
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PRISMA](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Stats
+## 🧩 Projects  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **LeetLab** | Online code execution platform with Judge0 API, user roles & submissions | React, Tailwind, Node.js, Express, Prisma, PostgreSQL |
+| **AI Code Reviewer** | Full-stack AI tool with Gemini API for code review, bug detection & smart suggestions | MERN, Tailwind, Google Gemini API |
+| **Streaming Backend Clone** | Netflix-style backend with authentication & content handling | Node.js, Express, MongoDB, Mongoose |
+
+---
+
+## 🧠 Core Strengths  
+
+⚛ **React Specialist** — Hooks, Context API, Zustand, Redux, React Hook Form, Yup  
+🚀 **Performance Hacker** — Code splitting, memoization, +40% faster UIs  
+🤝 **Agile Collaborator** — Sprint planning, Figma-based workflows, WCAG compliance  
+🤖 **AI Integrator** — Gemini API for live, intelligent code feedback  
+🔗 **Backend Ready** — REST APIs, JWT Auth, Prisma, PostgreSQL, MongoDB  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadikrangrej&show_icons=true&theme=radical" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadikrangrej&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqcodex&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqcodex&theme=radical" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sadikrangrej)
+💬 *"Write code that makes people say: damn, that’s clean."*

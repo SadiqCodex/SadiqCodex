@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadiq</h1>
-<h3 align="center">Frontend Developer ⚛ | React Specialist 🚀 | AI-Enhanced Builder 🤖</h3>
+<h3 align="center">Full Stack Engineer | Development Specialist 🚀 | AI-Enhanced Builder 🤖</h3>
 
 ---
 

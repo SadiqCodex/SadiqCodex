@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Rangrej</h1>
-<h3 align="center">Full-Stack Engineer 💻 | AI Engineer 🤖 | Intelligent Systems Builder 🚀</h3>
+<h3 align="center">Multi-Stack Engineer 💻 | AI Engineer 🤖 | Intelligent Systems Builder 🚀</h3>
 
 ---
 
 💡 Turning ideas into smooth, pixel-perfect, lightning-fast UIs  
-📌 8+ months building scalable frontend apps @ Ilmcore Tech  
+📌 1+ Year building scalable frontend apps @ Bytechnik LLC  
 🛠 Expert in React, Zustand, Prisma, PostgreSQL, Tailwind, AI APIs  
 🎓 BCA (2025–28) | Certified Full Stack Developer – PW Skills  
 🏆 Outstanding Tech Talent Award (2025) | Excellency Award (2024)  
@@ -18,19 +18,23 @@
 
 ---
 
-## 🚀 Tech Stack  
-
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![VUE](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-0C7CBA?style=for-the-badge\&logo=primefaces\&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-1F2937?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-35495E?style=for-the-badge\&logo=vue.js\&logoColor=41B883)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
@@ -42,12 +46,41 @@
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF416C?style=for-the-badge\&logo=postman\&logoColor=white\&labelColor=FF4B2B)
+![Authentication Systems](https://img.shields.io/badge/Authentication%20Systems-6A11CB?style=for-the-badge\&logo=auth0\&logoColor=white\&labelColor=2575FC)
+![Scalable Backend Architecture](https://img.shields.io/badge/Scalable%20Backend%20Architecture-11998E?style=for-the-badge\&logo=server\&logoColor=white\&labelColor=38EF7D)
 
 ---
 
-### 🧠 AI / Machine Learning
-![LANGCHAIN](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
-![MACHINE LEARNING](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow)
+### 🎞️ Motion & Interaction Engineering
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-6A11CB?style=for-the-badge\&logo=framer\&logoColor=white\&labelColor=2575FC)
+![GSAP](https://img.shields.io/badge/GSAP-11998E?style=for-the-badge\&logo=greensock\&logoColor=white\&labelColor=38EF7D)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-8E2DE2?style=for-the-badge\&logo=greensock\&logoColor=white\&labelColor=4A00E0)
+![Lenis](https://img.shields.io/badge/Lenis%20Smooth%20Scroll-FF512F?style=for-the-badge\&logo=buffer\&logoColor=white\&labelColor=DD2476)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive%20Scroll-41295A?style=for-the-badge\&logo=train\&logoColor=white\&labelColor=2F0743)
+![Three.js](https://img.shields.io/badge/Three.js-0F2027?style=for-the-badge\&logo=three.js\&logoColor=white\&labelColor=203A43)
+![WebGL](https://img.shields.io/badge/WebGL-3A1C71?style=for-the-badge\&logo=webgl\&logoColor=white\&labelColor=D76D77)
+![Parallax](https://img.shields.io/badge/Parallax%20Effects-FF416C?style=for-the-badge\&logo=affinitydesigner\&logoColor=white\&labelColor=FF4B2B)
+![Scroll Storytelling](https://img.shields.io/badge/Scroll--Driven%20Storytelling-1FA2FF?style=for-the-badge\&logo=readme\&logoColor=white\&labelColor=12D8FA)
+![SVG Animations](https://img.shields.io/badge/SVG%20Animations-F953C6?style=for-the-badge\&logo=svg\&logoColor=white\&labelColor=B91D73)
+![Lottie](https://img.shields.io/badge/Lottie-00C6FF?style=for-the-badge\&logo=lottie\&logoColor=white\&labelColor=0072FF)
+![Micro Interactions](https://img.shields.io/badge/Micro--Interactions-8E54E9?style=for-the-badge\&logo=zap\&logoColor=white\&labelColor=4776E6)
+
+---
+
+### 🤖 AI & Data Technologies
+
+![LangChain](https://img.shields.io/badge/LangChain-6A11CB?style=for-the-badge\&logo=chainlink\&logoColor=white\&labelColor=2575FC)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-11998E?style=for-the-badge\&logo=tensorflow\&logoColor=white\&labelColor=38EF7D)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge\&logo=pytorch\&logoColor=white\&labelColor=4A00E0)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FF416C?style=for-the-badge\&logo=readme\&logoColor=white\&labelColor=FF4B2B)
+![AI Chatbots](https://img.shields.io/badge/AI%20Chatbots-00C6FF?style=for-the-badge\&logo=robot\&logoColor=white\&labelColor=0072FF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F953C6?style=for-the-badge\&logo=openai\&logoColor=white\&labelColor=B91D73)
+![NLP](https://img.shields.io/badge/NLP%20Concepts-1FA2FF?style=for-the-badge\&logo=elevenlabs\&logoColor=white\&labelColor=12D8FA)
+![LangGraph](https://img.shields.io/badge/LangGraph-41295A?style=for-the-badge\&logo=graphql\&logoColor=white\&labelColor=2F0743)
+![LangSmith](https://img.shields.io/badge/LangSmith-3A1C71?style=for-the-badge\&logo=semanticweb\&logoColor=white\&labelColor=D76D77)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-8E54E9?style=for-the-badge\&logo=zap\&logoColor=white\&labelColor=4776E6)
 
 ---
 
@@ -58,23 +91,55 @@
 
 ---
 
+### ☁️ **Cloud & Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-0F2027?style=for-the-badge\&logo=vercel\&logoColor=white\&labelColor=203A43)
+![Render](https://img.shields.io/badge/Render-1FA2FF?style=for-the-badge\&logo=render\&logoColor=white\&labelColor=12D8FA)
+![Railway](https://img.shields.io/badge/Railway-3A1C71?style=for-the-badge\&logo=railway\&logoColor=white\&labelColor=D76D77)
+![AWS](https://img.shields.io/badge/AWS-FF416C?style=for-the-badge\&logo=amazonaws\&logoColor=white\&labelColor=FF4B2B)
+![Netlify](https://img.shields.io/badge/Netlify-11998E?style=for-the-badge\&logo=netlify\&logoColor=white\&labelColor=38EF7D)
+![Cloud Scaling](https://img.shields.io/badge/Cloud%20Scaling-6A11CB?style=for-the-badge\&logo=cloudflare\&logoColor=white\&labelColor=2575FC)
+![API Deployment](https://img.shields.io/badge/API%20Deployment-F953C6?style=for-the-badge\&logo=fastapi\&logoColor=white\&labelColor=B91D73)
+![DNS Setup](https://img.shields.io/badge/DNS%20Setup-8E2DE2?style=for-the-badge\&logo=internetcomputer\&logoColor=white\&labelColor=4A00E0)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-FF512F?style=for-the-badge\&logo=speedtest\&logoColor=white\&labelColor=DD2476)
+
+---
+
+### 🧪 Testing & Quality Assurance
+
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-CC0000?style=for-the-badge\&logo=jest\&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-8A2BE2?style=for-the-badge\&logo=mocha\&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2F4F4F?style=for-the-badge\&logo=notion\&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/Automation_Testing-43A047?style=for-the-badge\&logo=selenium\&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-F76935?style=for-the-badge\&logo=postman\&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
 ### ⚙️ Tools & Others
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![Arattai](https://img.shields.io/badge/Arattai-6A11CB?style=for-the-badge\&logo=gnometerminal\&logoColor=white\&labelColor=2575FC)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-1FA2FF?style=for-the-badge\&logo=googlemeet\&logoColor=white\&labelColor=12D8FA)
+![Telegram](https://img.shields.io/badge/Telegram-00C6FF?style=for-the-badge\&logo=telegram\&logoColor=white\&labelColor=0072FF)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-8E54E9?style=for-the-badge\&logo=microsoftteams\&logoColor=white\&labelColor=4776E6)
 
 ---
 
 ## 🧩 Projects  
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **LeetLab** | Online code execution platform with Judge0 API, user roles, submissions & secure backend architecture | React, TailwindCSS, Node.js, Express.js, Prisma, PostgreSQL |
-| **AI Code Reviewer** | Full-stack AI-powered tool for code review, bug detection, refactoring & intelligent suggestions | React, Node.js, Express.js, MongoDB, TailwindCSS, Google Gemini API |
-| **Streaming Backend Clone** | Netflix-style backend with authentication, sessions, content system & optimized API performance | Node.js, Express.js, MongoDB, Mongoose |
-| **AI Chat Engine** | Multi-model conversational AI system with memory, tools & custom pipelines | LangChain, Python, FastAPI |
-| **TaskFlow API** | Production-grade backend with roles, permissions, logging, rate limits & clean API design | Node.js, Sails.js, PostgreSQL |
-| **ML Insight Hub** | Data analysis + Machine Learning models with visualization & training pipeline | Python, Scikit-Learn, Pandas, Flask |
+| Project                          | Description                                                                                                                                                               | Tech Stack                                                                                                            |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **LeetLab**                      | Online coding judge with real-time code execution, user roles, secure API architecture, and optimized backend performance. Includes test reports & logging.               | **React, TailwindCSS, Node.js, Express.js, Prisma, PostgreSQL, JWT Auth, REST APIs, CI/CD, API Deployment**           |
+| **AI Code Reviewer**             | AI-based automatic code review system with bug detection, refactoring suggestions, security checks & code-quality scoring. Integrated LangChain + Gemini + RAG pipelines. | **React, Node.js, Express.js, MongoDB, LangChain, RAG Systems, Prompt Engineering, Workflow Automation, AI Chatbots** |
+| **Streaming Backend Clone**      | Netflix-style backend including JWT auth, sessions, watchlist, content system, scalable architecture & optimized queries. High performance + caching.                     | **Node.js, Express.js, MongoDB, Mongoose, Scalable Backend Architecture, Redis Caching**                              |
+| **AI Chat Engine**               | Intelligent multi-model chat engine with tools, memory, workflow graphs, and custom pipelines using LangGraph + LangSmith tracking.                                       | **Python, FastAPI, LangChain, LangGraph, LangSmith, Deep Learning, NLP Systems, RAG**                                 |
+| **TaskFlow API**                 | Production-grade backend with RBAC roles, permissions, rate limits, API versioning, logs, error handling & automated test flows.                                          | **Node.js, Sails.js, PostgreSQL, Prisma, API Testing, Unit Tests, Integration Tests, CI/CD Pipelines**                |
+| **ML Insight Hub**               | Machine learning dashboard for data visualization, model training, performance evaluation & predictions. Includes workflow automation + API-based ML inference.           | **Python, Scikit-Learn, Pandas, Matplotlib, Flask, Workflow Automation, ML Models**                                   |
+| **MotionCraft Portfolio Engine** | Cinematic portfolio engine with 3D scroll effects, parallax scenes, micro-interactions, smooth scrolling, component motion & WebGL experiences.                           | **Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js, WebGL, SVG Animations, Lottie**                    |
+| **CloudFlow Auto Deploy**        | Automated cloud deployment system for full-stack apps with DNS setup, Vercel/Netlify pipelines, API server deployment, logging & performance monitoring.                  | **Vercel, Netlify, Render, Railway, AWS, DNS Setup, Cloud Scaling, Performance Optimization**                         |
 
 ---
 

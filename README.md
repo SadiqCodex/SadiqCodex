@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Rangrej</h1>
-<h3 align="center">Multi Full Stack Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
+<h3 align="center">Multi Tech Full Stack Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
 
 ---
 
@@ -150,14 +150,14 @@
 
 ## 🧠 Core Strengths
 
-⚛ **Frontend & Motion Engineering Expert** — React, Angular, Vue, Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js & WebGL-based cinematic UI/UX
-🧩 **Advanced State & Architecture Handling** — Zustand, Redux Toolkit, Context API, modular architecture, scalable component systems
-🤖 **AI Engineering & Automation** — LangChain, LangGraph, LangSmith, RAG pipelines, workflow automation, LLM tools, AI chatbots, NLP systems
-🔗 **Backend & System Architecture** — RESTful APIs, Authentication Systems, Sails.js, Express.js, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns
-🧪 **Testing & Quality Mastery** — Unit testing, integration testing, API testing, automation testing, CI/CD pipelines, production debugging & logs
-⚙️ **Cloud & Deployment Skills** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization
-🚀 **Performance Optimization Specialist** — Caching, memoization, lazy loading, code-splitting, query optimization, +40–60% faster UI & backend response
-🎨 **Interaction + Micro-Animation Mindset** — SVG animations, Lottie, parallax effects, scroll storytelling, immersive interactive experiences  
+⚛ **Frontend & Motion Engineering Expert** — React, Angular, Vue, Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js & WebGL-based cinematic UI/UX<br>
+🧩 **Advanced State & Architecture Handling** — Zustand, Redux Toolkit, Context API, modular architecture, scalable component systems<br>
+🤖 **AI Engineering & Automation** — LangChain, LangGraph, LangSmith, RAG pipelines, workflow automation, LLM tools, AI chatbots, NLP systems<br>
+🔗 **Backend & System Architecture** — RESTful APIs, Authentication Systems, Sails.js, Express.js, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns<br>
+🧪 **Testing & Quality Mastery** — Unit testing, integration testing, API testing, automation testing, CI/CD pipelines, production debugging & logs<br>
+⚙️ **Cloud & Deployment Skills** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization<br>
+🚀 **Performance Optimization Specialist** — Caching, memoization, lazy loading, code-splitting, query optimization, +40–60% faster UI & backend response<br>
+🎨 **Interaction + Micro-Animation Mindset** — SVG animations, Lottie, parallax effects, scroll storytelling, immersive interactive experiences<br> 
 
 ---
 

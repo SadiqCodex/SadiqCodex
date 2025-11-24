@@ -4,23 +4,25 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Rangrej</h1>
-<h3 align="center">Multi-Stack Engineer 💻 | AI Engineer 🤖 | Intelligent Systems Builder 🚀</h3>
+<h3 align="center">Multi Full Stack Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
 
 ---
 
-💡 Turning ideas into smooth, pixel-perfect, lightning-fast UIs  
-📌 1+ Year building scalable frontend apps @ Bytechnik LLC  
-🛠 Expert in React, Zustand, Prisma, PostgreSQL, Tailwind, AI APIs  
-🎓 BCA (2025–28) | Certified Full Stack Developer – PW Skills  
-🏆 Outstanding Tech Talent Award (2025) | Excellency Award (2024)  
-🌍 Open for Frontend & React Developer opportunities worldwide  
-📬 Connect: [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/sadiqcodex)
+💡 **Engineering world-class, high-performance, pixel-perfect digital experiences** — from cinematic UIs to intelligent AI systems.
+📌 **1+ Year of professional experience** building scalable, production-grade applications @ **Bytechnik LLC**.
+🛠 **Multi-Stack Engineer:** React, Angular, Vue, Zustand, Prisma, PostgreSQL, Tailwind, Node.js, Sails.js, FastAPI, LangChain, LangGraph, AI Workflows.
+🤖 **AI & Automation Specialist:** RAG systems, workflow automation, intelligent chat pipelines, LLM integrations, and deep system optimization.
+🎓 **BCA (2025–28)** | **Certified Full-Stack Developer – PW Skills** | Advanced AI & ML specialization.
+🏆 **Outstanding Tech Talent Award (2025)** | **Excellency Award (2024)** — recognized for innovation, performance, and engineering excellence.
+🌍 **Open for Frontend, React, AI Engineering, and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.
+📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)**
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -39,6 +41,7 @@
 ---
 
 ### 🧩 Backend
+
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![SAILS](https://img.shields.io/badge/Sails.js-13B5EA?style=for-the-badge&logo=sailsdotjs&logoColor=white)
@@ -85,6 +88,7 @@
 ---
 
 ### 🗄️ Database & ORM
+
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![PRISMA](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
@@ -117,6 +121,7 @@
 ---
 
 ### ⚙️ Tools & Others
+
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -143,13 +148,16 @@
 
 ---
 
-## 🧠 Core Strengths  
+## 🧠 Core Strengths
 
-⚛ **React Specialist** — Advanced Hooks, Context API, Zustand, Redux Toolkit, React Hook Form, Yup  
-🚀 **Performance Optimizer** — Code-splitting, memoization, caching, +40% faster, highly responsive UIs  
-🤝 **Agile Team Player** — Sprint planning, Figma-driven development, accessibility (WCAG) best practices  
-🤖 **AI Integrator** — Gemini API / LangChain workflows for intelligent code analysis & automation  
-🔗 **Backend Capable** — REST APIs, JWT auth, Prisma ORM, PostgreSQL, MongoDB, Express.js, Sails.js  
+⚛ **Frontend & Motion Engineering Expert** — React, Angular, Vue, Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js & WebGL-based cinematic UI/UX
+🧩 **Advanced State & Architecture Handling** — Zustand, Redux Toolkit, Context API, modular architecture, scalable component systems
+🤖 **AI Engineering & Automation** — LangChain, LangGraph, LangSmith, RAG pipelines, workflow automation, LLM tools, AI chatbots, NLP systems
+🔗 **Backend & System Architecture** — RESTful APIs, Authentication Systems, Sails.js, Express.js, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns
+🧪 **Testing & Quality Mastery** — Unit testing, integration testing, API testing, automation testing, CI/CD pipelines, production debugging & logs
+⚙️ **Cloud & Deployment Skills** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization
+🚀 **Performance Optimization Specialist** — Caching, memoization, lazy loading, code-splitting, query optimization, +40–60% faster UI & backend response
+🎨 **Interaction + Micro-Animation Mindset** — SVG animations, Lottie, parallax effects, scroll storytelling, immersive interactive experiences  
 
 ---
 

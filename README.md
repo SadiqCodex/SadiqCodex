@@ -8,14 +8,14 @@
 
 ---
 
-💡 **Engineering world-class, high-performance, pixel-perfect digital experiences** — from cinematic UIs to intelligent AI systems.
-📌 **1+ Year of professional experience** building scalable, production-grade applications @ **Bytechnik LLC**.
-🛠 **Multi-Stack Engineer:** React, Angular, Vue, Zustand, Prisma, PostgreSQL, Tailwind, Node.js, Sails.js, FastAPI, LangChain, LangGraph, AI Workflows.
-🤖 **AI & Automation Specialist:** RAG systems, workflow automation, intelligent chat pipelines, LLM integrations, and deep system optimization.
-🎓 **BCA (2025–28)** | **Certified Full-Stack Developer – PW Skills** | Advanced AI & ML specialization.
-🏆 **Outstanding Tech Talent Award (2025)** | **Excellency Award (2024)** — recognized for innovation, performance, and engineering excellence.
-🌍 **Open for Frontend, React, AI Engineering, and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.
-📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)**
+💡 **Engineering world-class, high-performance, pixel-perfect digital experiences** — from cinematic UIs to intelligent AI systems.<br>
+📌 **1+ Year of professional experience** building scalable, production-grade applications @ **Bytechnik LLC**.<br>
+🛠 **Multi-Stack Engineer:** React, Angular, Vue, Zustand, Prisma, PostgreSQL, Tailwind, Node.js, Sails.js, FastAPI, LangChain, LangGraph, AI Workflows.<br>
+🤖 **AI & Automation Specialist:** RAG systems, workflow automation, intelligent chat pipelines, LLM integrations, and deep system optimization.<br>
+🎓 **BCA (2025–28)** | **Certified Full-Stack Developer – PW Skills** | Advanced AI & ML specialization.<br>
+🏆 **Outstanding Tech Talent Award (2025)** | **Excellency Award (2024)** — recognized for innovation, performance, and engineering excellence.<br>
+🌍 **Open for Frontend, React, AI Engineering, and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.<br>
+📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)**<br>
 
 ---
 

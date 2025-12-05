@@ -3,7 +3,7 @@
   <img src="C:\Users\HP\Desktop\Projects\Images\LinkedIn Profile Banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey, I’m Sadik Rangrej</h1>
+<h1 align="center">👋 Hey, I’m Sadik Mohammad</h1>
 <h3 align="center">Multi Tech Full Stack Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
 
 ---

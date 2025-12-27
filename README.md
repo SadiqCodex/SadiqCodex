@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Mohammad</h1>
-<h3 align="center">Multi Tech Full Stack Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
+<h3 align="center">Multi Tech Full Stack Software Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
 
 ---
 

@@ -136,12 +136,12 @@
 
 ## 🧠 Core Strengths
 
-⚛ **Frontend Engineering** — React, Angular, Vue, Tailwind, modern UI systems
-🤖 **AI Engineering** — Generative AI, LLMs, RAG, LangChain, AI Agents, Automation
-🔗 **Backend Systems** — REST APIs, GraphQL, Node.js, Sails.js, FastAPI, Prisma, PostgreSQL, MongoDB
-🧩 **Architecture & State** — Scalable systems, modular design, Zustand, Redux, clean architecture
-⚙️ **Cloud & Deployment** — Vercel, AWS, Render, CI/CD, performance optimization
-🚀 **Performance Optimization** — Caching, lazy loading, query tuning, faster UI & APIs
+⚛ **Frontend Engineering** — React, Angular, Vue, Tailwind, modern UI systems<br>
+🤖 **AI Engineering** — Generative AI, LLMs, RAG, LangChain, AI Agents, Automation<br>
+🔗 **Backend Systems** — REST APIs, GraphQL, Node.js, Sails.js, FastAPI, Prisma, PostgreSQL, MongoDB<br>
+🧩 **Architecture & State** — Scalable systems, modular design, Zustand, Redux, clean architecture<br>
+⚙️ **Cloud & Deployment** — Vercel, AWS, Render, CI/CD, performance optimization<br>
+🚀 **Performance Optimization** — Caching, lazy loading, query tuning, faster UI & APIs<br>
 
 ---
 

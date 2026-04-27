@@ -1,21 +1,20 @@
 <!-- 🖼️ GitHub Banner -->
 <p align="center">
-  <img src="C:\Users\HP\Desktop\Projects\Images\LinkedIn Profile Banner.png" alt="GitHub Banner" width="100%">
+  <img src="[C:\Users\HP\Desktop\Projects\Images\LinkedIn Profile Banner.png](https://media.licdn.com/dms/image/v2/D5616AQF6zXJktugL0g/profile-displaybackgroundimage-shrink_350_1400/B56Zz2njx3H8AY-/0/1773664093829?e=1778716800&v=beta&t=5qtsXa_gMX2ydbtP1kXcptNXRhr8ZzzgsC8K023OGwM)" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Mohammad</h1>
-<h3 align="center">Multi Tech Full Stack Software Engineer 💻 | AI & Automation Engineer 🤖 | Intelligent Systems Architect Specialist 🚀</h3>
+<h3 align="center">Multi Tech Full Stack Software Engineer💻 | AI & Automation Engineer🤖 | Intelligent Systems Architect Specialist🚀</h3>
 
 ---
 
 💡 **Engineering world-class, high-performance, pixel-perfect digital experiences** — from cinematic UIs to intelligent AI systems.<br>
 📌 **1+ Year of professional experience** building scalable, production-grade applications @ **Bytechnik LLC**.<br>
-🛠 **Multi-Stack Engineer:** React, Angular, Vue, Zustand, Prisma, PostgreSQL, Tailwind, Node.js, Sails.js, FastAPI, LangChain, LangGraph, AI Workflows.<br>
+🛠 **Multi-Stack Engineer:** React, Angular, Vue, Prisma, PostgreSQL, Tailwind, Node, Sails, FastAPI, LangChain, GenAI, AI Workflows.<br>
 🤖 **AI & Automation Specialist:** RAG systems, workflow automation, intelligent chat pipelines, LLM integrations, and deep system optimization.<br>
-🎓 **BCA (2025–28)** | **Certified Full-Stack Developer – PW Skills** | Advanced AI & ML specialization.<br>
-🏆 **Outstanding Tech Talent Award (2025)** | **Excellency Award (2024)** — recognized for innovation, performance, and engineering excellence.<br>
-🌍 **Open for Frontend, React, AI Engineering, and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.<br>
-📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)**<br>
+🎓 **BCA (2025–28)** | Advanced AI & ML specialization.<br>
+🌍 **Open for Frontend, AI Engineer and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.<br>
+📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)** | **[Instagram](https://instagram.com/sadiq_ali.10)**<br>
 
 ---
 
@@ -23,7 +22,7 @@
 
 ### 💻 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![HTML6](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -119,16 +118,19 @@
 
 ## 🧩 Projects  
 
-| Project                          | Description                                                                                                                                                               | Tech Stack                                                                                                            |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **LeetLab**                      | Online coding judge with real-time code execution, user roles, secure API architecture, and optimized backend performance. Includes test reports & logging.               | **React, TailwindCSS, Node.js, Express.js, Prisma, PostgreSQL, JWT Auth, REST APIs, CI/CD, API Deployment**           |
-| **AI Code Reviewer**             | AI-based automatic code review system with bug detection, refactoring suggestions, security checks & code-quality scoring. Integrated LangChain + Gemini + RAG pipelines. | **React, Node.js, Express.js, MongoDB, LangChain, RAG Systems, Prompt Engineering, Workflow Automation, AI Chatbots** |
-| **Streaming Backend Clone**      | Netflix-style backend including JWT auth, sessions, watchlist, content system, scalable architecture & optimized queries. High performance + caching.                     | **Node.js, Express.js, MongoDB, Mongoose, Scalable Backend Architecture, Redis Caching**                              |
-| **AI Chat Engine**               | Intelligent multi-model chat engine with tools, memory, workflow graphs, and custom pipelines using LangGraph + LangSmith tracking.                                       | **Python, FastAPI, LangChain, LangGraph, LangSmith, Deep Learning, NLP Systems, RAG**                                 |
-| **TaskFlow API**                 | Production-grade backend with RBAC roles, permissions, rate limits, API versioning, logs, error handling & automated test flows.                                          | **Node.js, Sails.js, PostgreSQL, Prisma, API Testing, Unit Tests, Integration Tests, CI/CD Pipelines**                |
-| **ML Insight Hub**               | Machine learning dashboard for data visualization, model training, performance evaluation & predictions. Includes workflow automation + API-based ML inference.           | **Python, Scikit-Learn, Pandas, Matplotlib, Flask, Workflow Automation, ML Models**                                   |
-| **MotionCraft Portfolio Engine** | Cinematic portfolio engine with 3D scroll effects, parallax scenes, micro-interactions, smooth scrolling, component motion & WebGL experiences.                           | **Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js, WebGL, SVG Animations, Lottie**                    |
-| **CloudFlow Auto Deploy**        | Automated cloud deployment system for full-stack apps with DNS setup, Vercel/Netlify pipelines, API server deployment, logging & performance monitoring.                  | **Vercel, Netlify, Render, Railway, AWS, DNS Setup, Cloud Scaling, Performance Optimization**                         |
+| Project | Description | Tech Stack |
+|--------|------------|-----------|
+| **AI Lab Report Summarizer** | Extracts and summarizes medical lab reports into structured insights using LLM pipelines. | **Python, FastAPI, LangChain, LLMs, NLP** |
+| **AI Medical Conversation Summarizer** | Converts doctor-patient conversations into concise clinical summaries. | **Python, FastAPI, Deepgram, LangChain, NLP** |
+| **AI SOAP Notes Generator** | Generates structured SOAP notes automatically from raw medical input. | **Python, FastAPI, LangChain, RAG, LLMs** |
+| **RAG-based AI Agent** | Intelligent retrieval-based agent with memory, tools, and contextual reasoning. | **LangChain, LangGraph, RAG, Vector DBs, AI Agents** |
+| **AI Chatbot** | Multi-purpose AI chatbot with context memory and workflow automation. | **Python, FastAPI, LangChain, LLMs** |
+| **eMitra RAG System** | Government services ke liye RAG-based query system with document intelligence. | **RAG, Vector Search, LangChain, NLP** |
+| **Heart Disease Prediction Model** | ML model to predict heart disease risk using clinical features. | **Python, Scikit-Learn, Pandas, ML Models** |
+| **Appointment Best Slot Predictor** | Predicts optimal appointment slots using feature-engineered ML model. | **Python, ML, Feature Engineering, CatBoost** |
+| **Patient Vital Risk Prediction Model** | Classifies patients into high-risk vs normal using ML pipeline. | **Python, ML, Data Processing, Model Deployment** |
+| **EMR Frontend System** | Healthcare dashboard UI for managing patient data, reports, and workflows. | **React, TailwindCSS, API Integration, UI/UX** |
+| **ERP Frontend System** | Enterprise dashboard UI for business operations, analytics, and management flows. | **React, TypeScript, TailwindCSS, State Management** |                       |
 
 ---
 
@@ -137,11 +139,10 @@
 ⚛ **Frontend & Motion Engineering Expert** — React, Angular, Vue, Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js & WebGL-based cinematic UI/UX<br>
 🧩 **Advanced State & Architecture Handling** — Zustand, Redux Toolkit, Context API, modular architecture, scalable component systems<br>
 🤖 **AI Engineering & Automation** — LangChain, LangGraph, LangSmith, RAG pipelines, workflow automation, LLM tools, AI chatbots, NLP systems<br>
-🔗 **Backend & System Architecture** — RESTful APIs, Authentication Systems, Sails.js, Express.js, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns<br>
+🔗 **Backend & System Architecture** — RESTful APIs, GraphQL, Authentication Systems, Sails, Express, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns<br>
 🧪 **Testing & Quality Mastery** — Unit testing, integration testing, API testing, automation testing, CI/CD pipelines, production debugging & logs<br>
-⚙️ **Cloud & Deployment Skills** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization<br>
+⚙️ **Cloud & Deployment** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization<br>
 🚀 **Performance Optimization Specialist** — Caching, memoization, lazy loading, code-splitting, query optimization, +40–60% faster UI & backend response<br>
-🎨 **Interaction + Micro-Animation Mindset** — SVG animations, Lottie, parallax effects, scroll storytelling, immersive interactive experiences<br> 
 
 ---
 

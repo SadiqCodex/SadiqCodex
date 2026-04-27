@@ -136,13 +136,12 @@
 
 ## 🧠 Core Strengths
 
-⚛ **Frontend & Motion Engineering Expert** — React, Angular, Vue, Framer Motion, GSAP, ScrollTrigger, Lenis, Locomotive, Three.js & WebGL-based cinematic UI/UX<br>
-🧩 **Advanced State & Architecture Handling** — Zustand, Redux Toolkit, Context API, modular architecture, scalable component systems<br>
-🤖 **AI Engineering & Automation** — LangChain, LangGraph, LangSmith, RAG pipelines, workflow automation, LLM tools, AI chatbots, NLP systems<br>
-🔗 **Backend & System Architecture** — RESTful APIs, GraphQL, Authentication Systems, Sails, Express, Prisma, PostgreSQL, MongoDB, scalable backend architecture + microservices patterns<br>
-🧪 **Testing & Quality Mastery** — Unit testing, integration testing, API testing, automation testing, CI/CD pipelines, production debugging & logs<br>
-⚙️ **Cloud & Deployment** — Vercel, Netlify, Render, Railway, AWS, DNS setup, auto-deployment pipelines, performance optimization<br>
-🚀 **Performance Optimization Specialist** — Caching, memoization, lazy loading, code-splitting, query optimization, +40–60% faster UI & backend response<br>
+⚛ **Frontend Engineering** — React, Angular, Vue, Tailwind, modern UI systems
+🤖 **AI Engineering** — Generative AI, LLMs, RAG, LangChain, AI Agents, Automation
+🔗 **Backend Systems** — REST APIs, GraphQL, Node.js, Sails.js, FastAPI, Prisma, PostgreSQL, MongoDB
+🧩 **Architecture & State** — Scalable systems, modular design, Zustand, Redux, clean architecture
+⚙️ **Cloud & Deployment** — Vercel, AWS, Render, CI/CD, performance optimization
+🚀 **Performance Optimization** — Caching, lazy loading, query tuning, faster UI & APIs
 
 ---
 

@@ -4,17 +4,17 @@
 </p>
 
 <h1 align="center">👋 Hey, I’m Sadik Mohammad</h1>
-<h3 align="center">Multi Tech Full Stack Software Engineer💻 | AI & Automation Engineer🤖 | Intelligent Systems Architect Specialist🚀</h3>
-
+<h3 align="center">AI Engineer 🤖 | Full Stack Developer 💻 | Intelligent Systems</h3>
 ---
 
-💡 **Engineering world-class, high-performance, pixel-perfect digital experiences** — from cinematic UIs to intelligent AI systems.<br>
-📌 **1+ Year of professional experience** building scalable, production-grade applications @ **Bytechnik LLC**.<br>
-🛠 **Multi-Stack Engineer:** React, Angular, Vue, Prisma, PostgreSQL, Tailwind, Node, Sails, FastAPI, LangChain, GenAI, AI Workflows.<br>
-🤖 **AI & Automation Specialist:** RAG systems, workflow automation, intelligent chat pipelines, LLM integrations, and deep system optimization.<br>
-🎓 **BCA (2025–28)** | Advanced AI & ML specialization.<br>
-🌍 **Open for Frontend, AI Engineer and Intelligent Systems roles worldwide** — delivering production-quality software with speed and precision.<br>
-📬 Connect: **[LinkedIn](https://linkedin.com/in/your-link)** | **[GitHub](https://github.com/sadiqcodex)** | **[Instagram](https://instagram.com/sadiq_ali.10)**<br>
+💡 **Building high-performance, scalable AI systems & modern web applications** — from cinematic UIs to intelligent automation.<br>
+📌 **1+ Year Experience @ Bytechnik LLC** — production-grade systems, scalable architecture, real-world deployments.<br>
+🛠 **Tech Stack:** React, Angular, Vue, Tailwind, Node.js, Sails.js, FastAPI, Prisma, PostgreSQL<br>
+🤖 **AI Engineering:** Generative AI, LLMs, RAG, LangChain, AI Workflows & Automation<br>
+🎓 **BCA (2025–28)** | Advanced AI & ML Specialization<br>
+🌍 **Open to:** AI Engineer • Frontend • Full Stack • Intelligent Systems Roles (Global)<br>
+📬 **Connect:**  
+[LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/sadiqcodex) • [Instagram](https://instagram.com/sadiq_ali.10)
 
 ---
 
@@ -129,8 +129,8 @@
 | **Heart Disease Prediction Model** | ML model to predict heart disease risk using clinical features. | **Python, Scikit-Learn, Pandas, ML Models** |
 | **Appointment Best Slot Predictor** | Predicts optimal appointment slots using feature-engineered ML model. | **Python, ML, Feature Engineering, CatBoost** |
 | **Patient Vital Risk Prediction Model** | Classifies patients into high-risk vs normal using ML pipeline. | **Python, ML, Data Processing, Model Deployment** |
-| **EMR Frontend System** | Healthcare dashboard UI for managing patient data, reports, and workflows. | **React, TailwindCSS, API Integration, UI/UX** |
-| **ERP Frontend System** | Enterprise dashboard UI for business operations, analytics, and management flows. | **React, TypeScript, TailwindCSS, State Management** |                       |
+| **EMR Frontend System** | Healthcare dashboard UI for managing patient data, reports, and workflows. | **Angular, TailwindCSS, API Integration, UI/UX** |
+| **ERP Frontend System** | Enterprise dashboard UI for business operations, analytics, and management flows. | **Angular, TypeScript, TailwindCSS, State Management** |                       |
 
 ---
 

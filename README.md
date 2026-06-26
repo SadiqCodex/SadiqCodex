@@ -1,285 +1,149 @@
 # 👋 Hi, I'm Sadik Mohammad
 
-### AI Engineer • Data Scientist • Machine Learning Engineer
+<h3 align="center">
+AI Engineer • Data Scientist • Machine Learning Engineer
+</h3>
 
 <p align="center">
-Building intelligent AI systems, scalable ML pipelines, production-grade GenAI applications, and data-driven solutions.
+Building intelligent systems powered by Machine Learning, Deep Learning, NLP, Generative AI and Production-Ready AI Applications.
+</p>
+
+<p align="center">
+<a href="https://sadik-mohammad.vercel.app">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">LinkedIn</a> •
+<a href="https://github.com/SadiqCodex">GitHub</a> •
+<a href="https://huggingface.co/SadikMohammad">Hugging Face</a> •
+<a href="https://x.com/SadikRangrej10">X (Twitter)</a> •
+<a href="https://www.instagram.com/sadiq_ali.10">Instagram</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 AI Engineer & Data Scientist with **2+ years of hands-on experience** building Machine Learning, Deep Learning, NLP, Generative AI, and Data Analytics solutions.
-
-📊 Experienced in transforming raw data into actionable insights using statistics, machine learning, and visualization techniques.
-
-🤖 Passionate about building production-ready AI applications using LLMs, RAG architectures, AI Agents, and modern Generative AI frameworks.
-
-⚡ Strong focus on solving real-world business and healthcare problems through intelligent automation and scalable AI systems.
-
-🎓 Bachelor of Computer Applications (BCA)
-
-🌍 Open to:
-
-* AI Engineer
-* Data Scientist
-* Machine Learning Engineer
-* Generative AI Engineer
-* Data Analyst
+* 🤖 Building AI-powered applications and intelligent automation systems
+* 📊 Passionate about Data Science, Machine Learning and Analytics
+* 🧠 Experienced in Generative AI, RAG Systems and LLM Applications
+* 📈 Interested in solving real-world business problems using data
+* 🌍 Open to AI Engineer, Data Scientist and ML Engineer opportunities
 
 ---
 
-# 🧠 Core Expertise
+## 🛠️ Tech Stack
 
-### 🤖 Artificial Intelligence
+| Category         | Technologies                                        |
+| ---------------- | --------------------------------------------------- |
+| Programming      | Python                                              |
+| Data Analysis    | NumPy, Pandas, Matplotlib, Seaborn                  |
+| Statistics       | Statistical Analysis                                |
+| Database         | SQL                                                 |
+| Analytics & BI   | EDA, Data Preprocessing, Power BI                   |
+| Machine Learning | Scikit-Learn                                        |
+| Deep Learning    | TensorFlow, PyTorch, ANN, CNN, RNN                  |
+| NLP              | Natural Language Processing                         |
+| Generative AI    | Transformers, LLMs, Prompt Engineering, Fine-Tuning |
+| RAG Systems      | LangChain, Hugging Face, Vector Databases           |
+| Web Applications | Streamlit, FastAPI, Django                          |
+| Deployment       | Docker, Render                                      |
+| Cloud            | AWS, Azure, GCP                                     |
+| MLOps            | MLOps Fundamentals                                  |
+| Version Control  | Git, GitHub                                         |
 
-* Generative AI
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Prompt Engineering
-* Fine-Tuning
-* LangChain
-* Hugging Face
-* Vector Databases
+---
 
-### 📊 Data Science
+## ⭐ Featured Projects
 
-* Exploratory Data Analysis (EDA)
+| Project                            | Description                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------- |
+| AI Lab Report Summarizer           | AI system that extracts and summarizes medical lab reports into structured insights |
+| AI Medical Conversation Summarizer | Converts doctor-patient conversations into concise clinical summaries               |
+| AI SOAP Notes Generator            | Automatically generates structured SOAP notes from medical inputs                   |
+| AI Chatbot                         | Context-aware conversational AI assistant                                           |
+| RAG-Based AI Agent                 | Retrieval-Augmented AI Agent with intelligent knowledge access                      |
+| eMitra RAG System                  | Government service assistant powered by Retrieval-Augmented Generation              |
+| Heart Disease Prediction Model     | Machine Learning model for heart disease risk prediction                            |
+| Appointment Best Slot Predictor    | Predictive analytics system for appointment optimization                            |
+| Word Prediction Model              | Deep Learning based next-word prediction system                                     |
+
+---
+
+## 🎯 Core Expertise
+
+### Data Science
+
 * Data Cleaning
 * Data Preprocessing
-* Feature Engineering
+* Exploratory Data Analysis
 * Statistical Analysis
-* Predictive Modeling
 * Data Visualization
 
-### 🧮 Machine Learning
+### Machine Learning
 
-* Regression
+* Supervised Learning
 * Classification
-* Clustering
-* Ensemble Learning
+* Regression
+* Feature Engineering
 * Model Evaluation
-* Hyperparameter Tuning
 
-### 🧠 Deep Learning
+### Deep Learning
 
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
+* ANN
+* CNN
+* RNN
 * TensorFlow
 * PyTorch
 
-### 📝 Natural Language Processing
+### Generative AI
 
-* Text Classification
-* Sentiment Analysis
-* Information Extraction
-* Text Summarization
-* Conversational AI
-
----
-
-# 🛠️ Tech Stack
-
-## Programming
-
-* Python
-* SQL
-
-## Data Science & Analytics
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Statistics
-* Power BI
-
-## Machine Learning
-
-* Scikit-Learn
-* XGBoost
-* CatBoost
-
-## Deep Learning
-
-* TensorFlow
-* PyTorch
-
-## NLP & Generative AI
-
-* Transformers
-* Hugging Face
-* LangChain
-* RAG
+* LLM Applications
 * Prompt Engineering
 * Fine-Tuning
-* LLM Applications
-* Vector Databases
+* RAG Pipelines
+* LangChain
+* Hugging Face
 
-## Backend & Applications
+### AI Application Development
 
 * FastAPI
-* Django
 * Streamlit
-
-## Databases
-
-* PostgreSQL
-* SQL
-
-## DevOps & Deployment
-
-* Docker
-* Git
-* GitHub
-* Render
-
-## Cloud Basics
-
-* AWS
-* Azure
-* Google Cloud Platform (GCP)
-
-## MLOps Basics
-
-* Model Packaging
+* AI APIs
 * Model Deployment
-* Experiment Tracking Fundamentals
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 AI Lab Report Summarizer
-
-Transforms complex medical laboratory reports into concise, structured, and patient-friendly summaries using LLM-powered NLP pipelines.
-
-**Tech Stack:** Python, FastAPI, NLP, LLMs, LangChain
-
----
-
-## 💬 AI Chatbot
-
-Intelligent conversational assistant with contextual understanding and dynamic response generation.
-
-**Tech Stack:** Python, FastAPI, Generative AI, LLMs
-
----
-
-## 🎙️ AI Medical Conversation Summarizer
-
-Converts doctor-patient conversations into structured medical summaries and actionable insights.
-
-**Tech Stack:** Python, NLP, FastAPI, LangChain
-
----
-
-## 📄 AI SOAP Notes Generator
-
-Automatically generates professional SOAP notes from clinical conversations and medical records.
-
-**Tech Stack:** Python, FastAPI, RAG, LangChain, LLMs
-
----
-
-## 🤖 RAG-Based AI Agent
-
-Advanced retrieval-powered AI system capable of contextual reasoning, knowledge retrieval, and intelligent responses.
-
-**Tech Stack:** LangChain, RAG, Vector Databases, AI Agents
-
----
-
-## ❤️ Heart Disease Prediction Model
-
-Machine learning model for predicting heart disease risk using patient health metrics and clinical features.
-
-**Tech Stack:** Python, Scikit-Learn, Pandas
-
----
-
-## 🏛️ eMitra RAG System
-
-Government service assistant powered by Retrieval-Augmented Generation for intelligent document search and citizen support.
-
-**Tech Stack:** RAG, LangChain, NLP
-
----
-
-## 📅 Appointment Best Slot Predictor
-
-Machine learning system that predicts optimal appointment scheduling slots using historical patterns and feature engineering.
-
-**Tech Stack:** Python, Machine Learning, CatBoost
-
----
-
-## ⌨️ Word Prediction Model
-
-Deep learning language model capable of next-word prediction and intelligent sentence completion.
-
-**Tech Stack:** TensorFlow, NLP, Deep Learning
-
----
-
-# 📈 Areas of Interest
-
-* Artificial Intelligence
-* Generative AI
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Data Science
-* AI Agents
-* Large Language Models
-* Data Engineering
-* MLOps
-
----
-
-# 🎯 Current Focus
-
-* Advanced Generative AI Systems
-* Agentic AI Workflows
-* Multi-Agent Architectures
-* LLM Fine-Tuning
 * Production AI Systems
-* Scalable ML Deployments
-* End-to-End MLOps
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadiqcodex&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SadiqCodex&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqcodex&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqCodex&theme=tokyonight" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqcodex&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqCodex&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## 📫 Let's Connect
 
 📧 Email: [sadiqrangrej10@gmail.com](mailto:sadiqrangrej10@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/sadik-mohammad
+🌐 Portfolio: https://sadik-mohammad.vercel.app
 
-🌐 Portfolio: https://sadik-rangrej.vercel.app
+💼 LinkedIn: https://www.linkedin.com/in/sadik-mohammad-2913a3365
 
-🐙 GitHub: https://github.com/sadiqcodex
+🤗 Hugging Face: https://huggingface.co/SadikMohammad
 
 ---
 
-### “Data tells stories. AI turns those stories into intelligent decisions.”
+<p align="center">
+
+"Transforming data into intelligence and intelligence into impact."
+
+</p>

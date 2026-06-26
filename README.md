@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sadik Mohammad
+<h1 align="center">👋 Hi, I'm Sadik Mohammad</h1>
 
 <h3 align="center">
 AI Engineer • Data Scientist • Machine Learning Engineer
 </h3>
 
 <p align="center">
-Building intelligent systems powered by Machine Learning, Deep Learning, NLP, Generative AI and Production-Ready AI Applications.
+2+ Years Experience Building intelligent systems powered by Machine Learning, Deep Learning, NLP, Generative AI and Production-Ready AI Applications.
 </p>
 
 <p align="center">

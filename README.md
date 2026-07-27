@@ -47,28 +47,28 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 
 <p align="center">
 
-<a href="https://sadik-mohammad.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-ECFEFF?style=for-the-badge&logo=googlechrome&logoColor=0284C7&labelColor=FFFFFF&color=BAE6FD"/>
+<a href="https://sadik-mohammad.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-EFF6FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=BFDBFE"/>
+<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SadiqCodex" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=111827&labelColor=FFFFFF&color=CBD5E1"/>
+<a href="https://github.com/SadiqCodex">
+<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://huggingface.co/SadikMohammad" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-ECFDF5?style=for-the-badge&logo=huggingface&logoColor=059669&labelColor=FFFFFF&color=A7F3D0"/>
+<a href="https://huggingface.co/SadikMohammad">
+<img src="https://img.shields.io/badge/HuggingFace-10B981?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
 
-<a href="https://x.com/SadikRangrej10" target="_blank">
-  <img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=x&logoColor=111827&labelColor=FFFFFF&color=E2E8F0"/>
+<a href="https://x.com/SadikRangrej10">
+<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/sadiq_ali.10" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FDF2F8?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=FFFFFF&color=F9A8D4"/>
+<a href="https://www.instagram.com/sadiq_ali.10">
+<img src="https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>

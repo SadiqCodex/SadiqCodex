@@ -8,13 +8,41 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 2+ Years Experience Building intelligent systems powered by Machine Learning, Deep Learning, NLP, Generative AI and Production-Ready AI Applications.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://sadik-mohammad.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">LinkedIn</a> •
 <a href="https://github.com/SadiqCodex">GitHub</a> •
 <a href="https://huggingface.co/SadikMohammad">Hugging Face</a> •
 <a href="https://x.com/SadikRangrej10">X (Twitter)</a> •
 <a href="https://www.instagram.com/sadiq_ali.10">Instagram</a>
+</p> -->
+
+<p align="center">
+
+<a href="https://sadik-mohammad.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">
+<img src="https://img.shields.io/badge/LinkedIn-EFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=E8F4FF"/>
+</a>
+
+<a href="https://github.com/SadiqCodex">
+<img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=181717&labelColor=FFFFFF&color=F1F5F9"/>
+</a>
+
+<a href="https://huggingface.co/SadikMohammad">
+<img src="https://img.shields.io/badge/HuggingFace-ECFDF5?style=for-the-badge&logo=huggingface&logoColor=059669&labelColor=FFFFFF&color=D1FAE5"/>
+</a>
+
+<a href="https://x.com/SadikRangrej10">
+<img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=x&logoColor=111827&labelColor=FFFFFF&color=F1F5F9"/>
+</a>
+
+<a href="https://www.instagram.com/sadiq_ali.10">
+<img src="https://img.shields.io/badge/Instagram-FDF2F8?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=FFFFFF&color=FCE7F3"/>
+</a>
+
 </p>
 
 ---

@@ -17,7 +17,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 <a href="https://www.instagram.com/sadiq_ali.10">Instagram</a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://sadik-mohammad.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
@@ -41,6 +41,34 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 
 <a href="https://www.instagram.com/sadiq_ali.10">
 <img src="https://img.shields.io/badge/Instagram-FDF2F8?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=FFFFFF&color=FCE7F3"/>
+</a>
+
+</p> -->
+
+<p align="center">
+
+<a href="https://sadik-mohammad.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-ECFEFF?style=for-the-badge&logo=googlechrome&logoColor=0284C7&labelColor=FFFFFF&color=BAE6FD"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-EFF6FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=BFDBFE"/>
+</a>
+
+<a href="https://github.com/SadiqCodex" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=111827&labelColor=FFFFFF&color=CBD5E1"/>
+</a>
+
+<a href="https://huggingface.co/SadikMohammad" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-ECFDF5?style=for-the-badge&logo=huggingface&logoColor=059669&labelColor=FFFFFF&color=A7F3D0"/>
+</a>
+
+<a href="https://x.com/SadikRangrej10" target="_blank">
+  <img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=x&logoColor=111827&labelColor=FFFFFF&color=E2E8F0"/>
+</a>
+
+<a href="https://www.instagram.com/sadiq_ali.10" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FDF2F8?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=FFFFFF&color=F9A8D4"/>
 </a>
 
 </p>

@@ -9,7 +9,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 </p>
 
 <!-- <p align="center">
-<a href="https://sadik-mohammad.vercel.app">🌐 Portfolio</a> •
+<a href="https://sadik-mohammad.vercel.app">Portfolio</a> •
 <a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">LinkedIn</a> •
 <a href="https://github.com/SadiqCodex">GitHub</a> •
 <a href="https://huggingface.co/SadikMohammad">Hugging Face</a> •
@@ -17,7 +17,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 <a href="https://www.instagram.com/sadiq_ali.10">Instagram</a>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
 
 <a href="https://sadik-mohammad.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
@@ -41,34 +41,6 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 
 <a href="https://www.instagram.com/sadiq_ali.10">
 <img src="https://img.shields.io/badge/Instagram-FDF2F8?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=FFFFFF&color=FCE7F3"/>
-</a>
-
-</p> -->
-
-<p align="center">
-
-<a href="https://sadik-mohammad.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SadiqCodex">
-<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://huggingface.co/SadikMohammad">
-<img src="https://img.shields.io/badge/HuggingFace-10B981?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
-
-<a href="https://x.com/SadikRangrej10">
-<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sadiq_ali.10">
-<img src="https://img.shields.io/badge/Instagram-EC4899?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>

@@ -36,7 +36,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 </a>
 
 <a href="https://x.com/SadikRangrej10">
-<img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=X&logoColor=111827&labelColor=FFFFFF&color=F1F5F9"/>
+  <img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=x&logoColor=111827&labelColor=FFFFFF&color=F1F5F9" />
 </a>
 
 <a href="https://www.instagram.com/sadiq_ali.10">

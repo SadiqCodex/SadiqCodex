@@ -20,7 +20,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 <p align="center">
 
 <a href="https://sadik-mohammad.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
+<img src="https://img.shields.io/badge/%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">
@@ -36,7 +36,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 </a>
 
 <a href="https://x.com/SadikRangrej10">
-<img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=x&logoColor=111827&labelColor=FFFFFF&color=F1F5F9"/>
+<img src="https://img.shields.io/badge/X-F8FAFC?style=for-the-badge&logo=X&logoColor=111827&labelColor=FFFFFF&color=F1F5F9"/>
 </a>
 
 <a href="https://www.instagram.com/sadiq_ali.10">

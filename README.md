@@ -23,7 +23,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 <img src="https://img.shields.io/badge/%20Portfolio-EFFFFF?style=for-the-badge&logo=googlechrome&logoColor=0891B2&labelColor=FFFFFF&color=DFF8FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sadik-mohammad-2913a3365">
+<a href="https://www.linkedin.com/in/sadik-mohammad">
 <img src="https://img.shields.io/badge/LinkedIn-EFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=E8F4FF"/>
 </a>
 
@@ -164,7 +164,7 @@ AI Engineer • Data Scientist • Machine Learning Engineer
 
 🌐 Portfolio: https://sadik-mohammad.vercel.app
 
-💼 LinkedIn: https://www.linkedin.com/in/sadik-mohammad-2913a3365
+💼 LinkedIn: https://www.linkedin.com/in/sadik-mohammad
 
 🤗 Hugging Face: https://huggingface.co/SadikMohammad
 

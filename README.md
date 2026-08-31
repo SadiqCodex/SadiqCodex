@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/fluxonite/image/upload/v1778738519/uploads/47d13506-137f-469b-9411-95d0791cb71f/cd58fe78-ae86-42d2-b049-84b38c2aa03c.png" alt="Sadik Mohammad" width="200"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Sadik Mohammad</h1>
 
 <h3 align="center">
